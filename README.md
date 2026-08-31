@@ -1,5 +1,9 @@
 <h1 align="center">Hi, I'm i-safonoff 👋</h1>
 
+<p align="center">
+  <img src="assets/terminal-header.svg" width="700" alt="terminal window header" />
+</p>
+
 ```ini
 # guest@i-safonoff:~$ whoami
 

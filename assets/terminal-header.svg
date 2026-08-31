@@ -1,0 +1,8 @@
+<svg width="760" height="42" viewBox="0 0 760 42" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6,0 H754 A6,6 0 0 1 760,6 V42 H0 V6 A6,6 0 0 1 6,0 Z" fill="#24242b"/>
+  <line x1="0" y1="41.5" x2="760" y2="41.5" stroke="#34343d" stroke-width="1"/>
+  <circle cx="21" cy="21" r="6.5" fill="#ff5f56"/>
+  <circle cx="41" cy="21" r="6.5" fill="#ffbd2e"/>
+  <circle cx="61" cy="21" r="6.5" fill="#27c93f"/>
+  <text x="380" y="26" text-anchor="middle" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#9096a3">guest@i-safonoff:~$</text>
+</svg>
