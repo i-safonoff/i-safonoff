@@ -17,24 +17,11 @@ and analytics infrastructure for high-load media platforms. Comfortable in both 
 event-driven microservice architectures, with a focus on reliability, performance, and measurable
 business impact. Currently pursuing a Master's in Machine Learning at Central University.
 
-## Highlights
-
-- **2 min → 0.2 s** analytics event reaction time, by redesigning the ClickHouse table structure and
-  clearing a 40,000+ message backlog through deduplication and selective recovery.
-- **End-to-end analytics module** for parameterized XLSX/CSV business reporting — a dual-write event
-  ingestion pipeline routing media interactions to PostgreSQL and ClickHouse via Kafka and Django signals.
-- **AI enrichment pipeline** auto-generating metadata (descriptions, tags, visuals) for 30,000+ media
-  assets, integrating external LLM and image-generation APIs.
-- **Tag recommendation engine** for article content using morphological analysis (pymorphy), cutting
-  manual editorial tagging effort.
-- **Up to 74% test coverage** across business-critical API endpoints, auth flows, and async tasks;
-  automated end-to-end tests with Selenium reduced defects reaching production.
-
 ## Stack
 
 <table>
 <tr>
-<td valign="top" width="25%">
+<td valign="top" width="20%">
 
 **Languages · Frameworks**
 
@@ -46,7 +33,7 @@ business impact. Currently pursuing a Master's in Machine Learning at Central Un
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="20%">
 
 **Data · Messaging**
 
@@ -58,7 +45,21 @@ business impact. Currently pursuing a Master's in Machine Learning at Central Un
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="20%">
+
+**ML · Data Science**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![sentence-transformers](https://img.shields.io/badge/sentence--transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+</td>
+<td valign="top" width="20%">
 
 **Infra · DevOps**
 
@@ -69,7 +70,7 @@ business impact. Currently pursuing a Master's in Machine Learning at Central Un
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="20%">
 
 **Tools**
 
@@ -84,18 +85,29 @@ business impact. Currently pursuing a Master's in Machine Learning at Central Un
 
 ## Experience
 
-**[Nalitek](#)** &nbsp;·&nbsp; Python Backend Developer &nbsp;·&nbsp; Dec 2023 – Present
-> High-load news portals and media platforms for enterprise clients. Analytics infrastructure,
-> event-driven pipelines, AI-assisted content enrichment.
+**Nalitek** &nbsp;·&nbsp; Python Backend Developer &nbsp;·&nbsp; Dec 2023 – Present
+> High-load news portals and media platforms for enterprise clients.
+- Cut average analytics event reaction time from 2 min to 0.2 s by redesigning the ClickHouse table
+  structure and clearing a 40,000+ message backlog through deduplication and selective recovery.
+- Built an end-to-end analytics module for parameterized XLSX/CSV business reporting — a dual-write
+  event ingestion pipeline routing media interactions to PostgreSQL and ClickHouse via Kafka and Django signals.
+- Designed an AI enrichment pipeline auto-generating metadata (descriptions, tags, visuals) for
+  30,000+ media assets, integrating external LLM and image-generation APIs.
 
-**[Contentline](#)** &nbsp;·&nbsp; Python Backend Developer → QA Engineer &nbsp;·&nbsp; Aug 2022 – Dec 2023
-> State-commissioned web platforms for government agencies. Started in QA (test coverage,
-> Selenium E2E), moved into backend development (tagging engine, API performance).
+**Contentline** &nbsp;·&nbsp; QA Engineer → Python Backend Developer &nbsp;·&nbsp; Aug 2022 – Dec 2023
+> State-commissioned web platforms for government agencies.
+- Reached up to 74% unit/integration test coverage on business-critical API endpoints, auth flows,
+  and async tasks; automated end-to-end tests with Selenium cut defects reaching production.
+- Built a tag recommendation engine for article content using morphological analysis (pymorphy),
+  cutting manual editorial tagging effort.
+- Resolved N+1 query issues across API endpoints, improving response performance on data-heavy views.
 
 ## Education
 
-**Central University** — Master's in Machine Learning in Computer Science · Sept 2025 – Present
-**Bauman Moscow State Technical University** — Bachelor's in Applied Informatics · Sept 2021 – Aug 2025
+| Institution | Degree | Dates |
+|---|---|---|
+| Central University | Master's, Machine Learning in Computer Science | Sept 2025 – Present |
+| Bauman Moscow State Technical University | Bachelor's, Applied Informatics | Sept 2021 – Aug 2025 |
 
 ---
 
