@@ -1,44 +1,56 @@
 <h1 align="center">Hi, I'm i-safonoff 👋</h1>
 
-```text
-guest@i-safonoff:~$ whoami
+```ini
+# guest@i-safonoff:~$ whoami
 
-Name     : Ivan Safonov
-Role     : Software / ML Engineer (заглушка)
-Location : Earth, Remote
-Focus    : Backend, Data, немного ML
+[about]
+name     = Ivan Safonov
+role     = Software / ML Engineer (placeholder)
+location = Earth, Remote
+focus    = Backend, Data, a bit of ML
+bio      = Enjoys understanding how things work under the hood
+           and pushing side projects to a "not embarrassed to show" state.
 
-Люблю разбираться, как всё устроено внутри,
-и доводить пет-проекты до состояния "не стыдно показать".
+# guest@i-safonoff:~$ skills --hard
 
-guest@i-safonoff:~$ skills --hard
+[hard_skills]
+languages = Python, TypeScript, JavaScript
+database  = PostgreSQL
+tools     = Docker, Git, Linux
 
-[ Python ] [ TypeScript ] [ JavaScript ] [ PostgreSQL ] [ Docker ] [ Git ] [ Linux ]
+# guest@i-safonoff:~$ skills --soft
 
-guest@i-safonoff:~$ skills --soft
+[soft_skills]
+communication = strong
+autonomy      = high
+learning      = fast
 
-[ Коммуникация ] [ Самостоятельность ] [ Быстрое обучение ]
+# guest@i-safonoff:~$ ls projects/
 
-guest@i-safonoff:~$ ls projects/
+[project-one]
+description = placeholder — what it does, what problem it solved
+stack       = Python, FastAPI, PostgreSQL
+repo        = github.com/i-safonoff/project-one
 
-project-one/    заглушка — что делает, какой стек, какая была задача
-                stack: Python, FastAPI, PostgreSQL
-                repo:  github.com/i-safonoff/project-one
+[project-two]
+description = placeholder — short description of the second project
+stack       = TypeScript, React
+repo        = github.com/i-safonoff/project-two
 
-project-two/    заглушка — краткое описание второго проекта
-                stack: TypeScript, React
-                repo:  github.com/i-safonoff/project-two
+# guest@i-safonoff:~$ cat certificates.md
 
-guest@i-safonoff:~$ cat certificates.md
+[certificate-name-one]
+issuer = Issuer, 2025
 
-- Certificate Name One — Issuer, 2025
-- Certificate Name Two — Issuer, 2024
+[certificate-name-two]
+issuer = Issuer, 2024
 
-guest@i-safonoff:~$ contact --info
+# guest@i-safonoff:~$ contact --info
 
-telegram : @username
-email    : name@example.com
-linkedin : linkedin.com/in/username
+[contact]
+telegram = @username
+email    = name@example.com
+linkedin = linkedin.com/in/username
 
-guest@i-safonoff:~$ █
+# guest@i-safonoff:~$ _
 ```
