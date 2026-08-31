@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=650&lines=Ivan+Safonov;Python+Backend+Developer;Nalitek+%C2%B7+Moscow%2C+Russia" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=650&lines=Ivan+Safonov;Python+Backend+Developer+%C2%B7+ML+Engineer" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -85,22 +85,13 @@ business impact. Currently pursuing a Master's in Machine Learning at Central Un
 
 ## Experience
 
-**Nalitek** &nbsp;·&nbsp; Python Backend Developer &nbsp;·&nbsp; Dec 2023 – Present
-> High-load news portals and media platforms for enterprise clients.
-- Cut average analytics event reaction time from 2 min to 0.2 s by redesigning the ClickHouse table
-  structure and clearing a 40,000+ message backlog through deduplication and selective recovery.
-- Built an end-to-end analytics module for parameterized XLSX/CSV business reporting — a dual-write
-  event ingestion pipeline routing media interactions to PostgreSQL and ClickHouse via Kafka and Django signals.
-- Designed an AI enrichment pipeline auto-generating metadata (descriptions, tags, visuals) for
-  30,000+ media assets, integrating external LLM and image-generation APIs.
+**Python Backend Developer** &nbsp;·&nbsp; 2023
+> Analytics infrastructure and event-driven pipelines for high-load media platforms — ClickHouse,
+> Kafka, and AI-assisted content enrichment.
 
-**Contentline** &nbsp;·&nbsp; QA Engineer → Python Backend Developer &nbsp;·&nbsp; Aug 2022 – Dec 2023
-> State-commissioned web platforms for government agencies.
-- Reached up to 74% unit/integration test coverage on business-critical API endpoints, auth flows,
-  and async tasks; automated end-to-end tests with Selenium cut defects reaching production.
-- Built a tag recommendation engine for article content using morphological analysis (pymorphy),
-  cutting manual editorial tagging effort.
-- Resolved N+1 query issues across API endpoints, improving response performance on data-heavy views.
+**QA Engineer → Python Backend Developer** &nbsp;·&nbsp; 2022 – 2023
+> Web platforms for corporate clients — test automation, then backend feature work and
+> performance tuning.
 
 ## Education
 
