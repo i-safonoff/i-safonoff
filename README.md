@@ -33,11 +33,11 @@ business impact. Currently pursuing a Master's in Machine Learning at Central Un
 
 ## Experience
 
-**Python Backend Developer** &nbsp;·&nbsp; 2023
+**Nalitek** &nbsp;·&nbsp; Python Backend Developer &nbsp;·&nbsp; 2023 – 2026
 > Analytics infrastructure and event-driven pipelines for high-load media platforms — ClickHouse,
 > Kafka, and AI-assisted content enrichment.
 
-**QA Engineer → Python Backend Developer** &nbsp;·&nbsp; 2022 – 2023
+**Contentline** &nbsp;·&nbsp; QA Engineer → Python Backend Developer &nbsp;·&nbsp; 2022 – 2023
 > Web platforms for corporate clients — test automation, then backend feature work and
 > performance tuning.
 
