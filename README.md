@@ -12,12 +12,18 @@
 
 ---
 
-## Summary
+## About
 
-**Python Backend Developer**, 3+ years building scalable backend systems, asynchronous data pipelines,
-and analytics infrastructure for high-load media platforms. Comfortable in both monolithic and
-event-driven microservice architectures, with a focus on reliability, performance, and measurable
-business impact. Currently pursuing a Master's in Machine Learning at Central University.
+Middle Python backend developer with 3+ years of experience designing and scaling RESTful APIs
+with Django and FastAPI. Bachelor's in Applied Informatics, currently pursuing a Master's in
+Machine Learning.
+
+- Built an AI-enrichment integration with an external LLM API that lifted SEO metadata coverage
+  across the media catalog to 95%.
+- Resolved a Celery task-queue bottleneck by deduplicating tasks and reworking the worker
+  architecture, cutting report generation time from 2 minutes to 0.2 seconds.
+
+Looking for a scalable project where I can see my own impact on a system used by real people.
 
 ## Skills
 
