@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-[![Resume PDF](https://img.shields.io/badge/%F0%9F%93%84%20RESUME-download%20PDF-DC9D34?style=for-the-badge&labelColor=12383E)](https://github.com/i-safonoff/i-safonoff/raw/main/assets/resume.pdf)
+[![Resume PDF](https://img.shields.io/badge/%F0%9F%93%84%20RESUME-download%20PDF-DC9D34?style=for-the-badge&labelColor=12383E)](https://github.com/i-safonoff/i-safonoff/raw/main/documents/resume.pdf)
 [![Telegram](https://img.shields.io/badge/Telegram-@antifess-DC9D34?style=for-the-badge&labelColor=12383E&logo=telegram&logoColor=F3E6C8)](https://t.me/antifess)
 [![Email](https://img.shields.io/badge/Email-i.safonoff.dev@gmail.com-DC9D34?style=for-the-badge&labelColor=12383E&logo=gmail&logoColor=F3E6C8)](mailto:i.safonoff.dev@gmail.com)
 
@@ -19,60 +19,72 @@ business impact. Currently pursuing a Master's in Machine Learning at Central Un
 
 ## Skills
 
-**Languages & Frameworks:**
+**Languages:**
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-1C6169?style=flat-square&logo=python&logoColor=F3E6C8)
 ![C++](https://img.shields.io/badge/C++-1C6169?style=flat-square&logo=cplusplus&logoColor=F3E6C8)
-![SQL](https://img.shields.io/badge/SQL-1C6169?style=flat-square&logo=postgresql&logoColor=F3E6C8)
-![Django](https://img.shields.io/badge/Django-1C6169?style=flat-square&logo=django&logoColor=F3E6C8)
-![Flask](https://img.shields.io/badge/Flask-1C6169?style=flat-square&logo=flask&logoColor=F3E6C8)
-![FastAPI](https://img.shields.io/badge/FastAPI-1C6169?style=flat-square&logo=fastapi&logoColor=F3E6C8)
 
 </div>
 
-**Data & Messaging:**
+**Frameworks:**
 <div align="center">
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DC9D34?style=flat-square&logo=postgresql&logoColor=12383E)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-DC9D34?style=flat-square&logo=clickhouse&logoColor=12383E)
-![Redis](https://img.shields.io/badge/Redis-DC9D34?style=flat-square&logo=redis&logoColor=12383E)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-DC9D34?style=flat-square&logo=rabbitmq&logoColor=12383E)
-![Kafka](https://img.shields.io/badge/Kafka-DC9D34?style=flat-square&logo=apachekafka&logoColor=12383E)
-![Celery](https://img.shields.io/badge/Celery-DC9D34?style=flat-square&logo=celery&logoColor=12383E)
+![Django](https://img.shields.io/badge/Django-DC9D34?style=flat-square&logo=django&logoColor=12383E)
+![Flask](https://img.shields.io/badge/Flask-DC9D34?style=flat-square&logo=flask&logoColor=12383E)
+![FastAPI](https://img.shields.io/badge/FastAPI-DC9D34?style=flat-square&logo=fastapi&logoColor=12383E)
+
+</div>
+
+**Databases & Messaging:**
+<div align="center">
+
+![SQL](https://img.shields.io/badge/SQL-1C6169?style=flat-square&logo=postgresql&logoColor=F3E6C8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1C6169?style=flat-square&logo=postgresql&logoColor=F3E6C8)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-1C6169?style=flat-square&logo=clickhouse&logoColor=F3E6C8)
+![Redis](https://img.shields.io/badge/Redis-1C6169?style=flat-square&logo=redis&logoColor=F3E6C8)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1C6169?style=flat-square&logo=rabbitmq&logoColor=F3E6C8)
+![Kafka](https://img.shields.io/badge/Kafka-1C6169?style=flat-square&logo=apachekafka&logoColor=F3E6C8)
+![Celery](https://img.shields.io/badge/Celery-1C6169?style=flat-square&logo=celery&logoColor=F3E6C8)
 
 </div>
 
 **ML & Data Science:**
 <div align="center">
 
-![PyTorch](https://img.shields.io/badge/PyTorch-1C6169?style=flat-square&logo=pytorch&logoColor=F3E6C8)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1C6169?style=flat-square&logo=scikitlearn&logoColor=F3E6C8)
-![CatBoost](https://img.shields.io/badge/CatBoost-1C6169?style=flat-square&logoColor=F3E6C8)
-![Pandas](https://img.shields.io/badge/Pandas-1C6169?style=flat-square&logo=pandas&logoColor=F3E6C8)
-![NumPy](https://img.shields.io/badge/NumPy-1C6169?style=flat-square&logo=numpy&logoColor=F3E6C8)
-![sentence-transformers](https://img.shields.io/badge/sentence--transformers-1C6169?style=flat-square&logo=huggingface&logoColor=F3E6C8)
-![pgvector](https://img.shields.io/badge/pgvector-1C6169?style=flat-square&logo=postgresql&logoColor=F3E6C8)
-![Streamlit](https://img.shields.io/badge/Streamlit-1C6169?style=flat-square&logo=streamlit&logoColor=F3E6C8)
+![PyTorch](https://img.shields.io/badge/PyTorch-DC9D34?style=flat-square&logo=pytorch&logoColor=12383E)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-DC9D34?style=flat-square&logo=scikitlearn&logoColor=12383E)
+![CatBoost](https://img.shields.io/badge/CatBoost-DC9D34?style=flat-square&logoColor=12383E)
+![Pandas](https://img.shields.io/badge/Pandas-DC9D34?style=flat-square&logo=pandas&logoColor=12383E)
+![NumPy](https://img.shields.io/badge/NumPy-DC9D34?style=flat-square&logo=numpy&logoColor=12383E)
+![sentence-transformers](https://img.shields.io/badge/sentence--transformers-DC9D34?style=flat-square&logo=huggingface&logoColor=12383E)
+![pgvector](https://img.shields.io/badge/pgvector-DC9D34?style=flat-square&logo=postgresql&logoColor=12383E)
+![Streamlit](https://img.shields.io/badge/Streamlit-DC9D34?style=flat-square&logo=streamlit&logoColor=12383E)
 
 </div>
 
 **Infra & DevOps:**
 <div align="center">
 
-![Docker](https://img.shields.io/badge/Docker-DC9D34?style=flat-square&logo=docker&logoColor=12383E)
-![Git](https://img.shields.io/badge/Git-DC9D34?style=flat-square&logo=git&logoColor=12383E)
-![WebSocket](https://img.shields.io/badge/WebSocket-DC9D34?style=flat-square&logoColor=12383E)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-DC9D34?style=flat-square&logo=githubactions&logoColor=12383E)
-![Linux](https://img.shields.io/badge/Linux-DC9D34?style=flat-square&logo=linux&logoColor=12383E)
+![Docker](https://img.shields.io/badge/Docker-1C6169?style=flat-square&logo=docker&logoColor=F3E6C8)
+![Git](https://img.shields.io/badge/Git-1C6169?style=flat-square&logo=git&logoColor=F3E6C8)
+![WebSocket](https://img.shields.io/badge/WebSocket-1C6169?style=flat-square&logoColor=F3E6C8)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-1C6169?style=flat-square&logo=githubactions&logoColor=F3E6C8)
+![Linux](https://img.shields.io/badge/Linux-1C6169?style=flat-square&logo=linux&logoColor=F3E6C8)
 
 </div>
 
-**Tools:**
+**Developer Tools:**
 <div align="center">
 
-![PyCharm](https://img.shields.io/badge/PyCharm-1C6169?style=flat-square&logo=pycharm&logoColor=F3E6C8)
-![VS Code](https://img.shields.io/badge/VS%20Code-1C6169?style=flat-square&logo=visualstudiocode&logoColor=F3E6C8)
+![PyCharm](https://img.shields.io/badge/PyCharm-DC9D34?style=flat-square&logo=pycharm&logoColor=12383E)
+![VS Code](https://img.shields.io/badge/VS%20Code-DC9D34?style=flat-square&logo=visualstudiocode&logoColor=12383E)
+
+</div>
+
+**AI Tools:**
+<div align="center">
+
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-1C6169?style=flat-square&logo=claude&logoColor=F3E6C8)
 ![Cursor](https://img.shields.io/badge/Cursor-1C6169?style=flat-square&logoColor=F3E6C8)
 
@@ -90,6 +102,12 @@ business impact. Currently pursuing a Master's in Machine Learning at Central Un
 **[quadcopter-hil-simulator](https://github.com/i-safonoff/quadcopter-hil-simulator)**
 > Hardware-in-the-loop quadcopter flight-control simulator — Qt/OpenGL ground station paired
 > with STM32F411 firmware.
+
+## Hackathons
+
+| Year | Hackathon | Result | Link |
+|---|---|---|---|
+| | | | |
 
 ## Experience
 
