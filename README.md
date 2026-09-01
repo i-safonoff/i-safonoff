@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="900" alt="Ivan Safonov — Python Backend Developer · ML Engineer" />
+<img src="assets/banner.jpg" width="900" alt="Ivan Safonov — Python Backend Developer · ML Engineer" />
 
 <br/><br/>
 
