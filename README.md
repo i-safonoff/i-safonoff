@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.jpg" width="900" alt="Ivan Safonov — Python Backend Developer · ML Engineer" />
+<img src="assets/main-banner.jpg" width="900" alt="Ivan Safonov — Python Developer, Backend &amp; ML" />
 
 <br/><br/>
 
@@ -16,6 +16,8 @@
 and analytics infrastructure for high-load media platforms. Comfortable in both monolithic and
 event-driven microservice architectures, with a focus on reliability, performance, and measurable
 business impact. Currently pursuing a Master's in Machine Learning at Central University.
+
+<img src="assets/banner1.jpg" width="900" alt="Skills — Ivan Safonov's technical skills: Python, backend frameworks, data infrastructure, ML" />
 
 ## Skills
 
@@ -78,6 +80,23 @@ business impact. Currently pursuing a Master's in Machine Learning at Central Un
 
 </div>
 
+<img src="assets/banner2.jpg" width="900" alt="Projects — personal projects by Ivan Safonov: ML, RAG, embedded systems" />
+
+## Projects
+
+**[rush-hour-flows](https://github.com/i-safonoff/rush-hour-flows)**
+> Predicting peak-hour taxi demand and trip duration between Moscow districts with CatBoost,
+> and quantifying the revenue lost to surge-driven cancellations.
+
+**[dnd_assistant_rag](https://github.com/i-safonoff/dnd_assistant_rag)**
+> Local RAG assistant for tabletop rulebooks, powered by a self-hosted Qwen model via vLLM.
+
+**[quadcopter-hil-simulator](https://github.com/i-safonoff/quadcopter-hil-simulator)**
+> Hardware-in-the-loop quadcopter flight-control simulator — Qt/OpenGL ground station paired
+> with STM32F411 firmware.
+
+<img src="assets/banner3.jpg" width="900" alt="Experience — Ivan Safonov's work experience as a Python backend developer" />
+
 ## Experience
 
 **Python Backend Developer** &nbsp;·&nbsp; 2023
@@ -87,6 +106,8 @@ business impact. Currently pursuing a Master's in Machine Learning at Central Un
 **QA Engineer → Python Backend Developer** &nbsp;·&nbsp; 2022 – 2023
 > Web platforms for corporate clients — test automation, then backend feature work and
 > performance tuning.
+
+<img src="assets/banner4.jpg" width="900" alt="Education — Ivan Safonov's academic background in computer science and machine learning" />
 
 ## Education
 
