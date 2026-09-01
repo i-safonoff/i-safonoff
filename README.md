@@ -31,6 +31,16 @@ business impact. Currently pursuing a Master's in Machine Learning at Central Un
 | **Developer Tools** | ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 | **AI Tools** | ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square) |
 
+## Experience
+
+**Python Backend Developer** &nbsp;·&nbsp; 2023
+> Analytics infrastructure and event-driven pipelines for high-load media platforms — ClickHouse,
+> Kafka, and AI-assisted content enrichment.
+
+**QA Engineer → Python Backend Developer** &nbsp;·&nbsp; 2022 – 2023
+> Web platforms for corporate clients — test automation, then backend feature work and
+> performance tuning.
+
 ## Projects
 
 **[rush-hour-flows](https://github.com/i-safonoff/rush-hour-flows)**
@@ -50,22 +60,18 @@ business impact. Currently pursuing a Master's in Machine Learning at Central Un
 |---|---|---|---|
 | | | | |
 
-## Experience
-
-**Python Backend Developer** &nbsp;·&nbsp; 2023
-> Analytics infrastructure and event-driven pipelines for high-load media platforms — ClickHouse,
-> Kafka, and AI-assisted content enrichment.
-
-**QA Engineer → Python Backend Developer** &nbsp;·&nbsp; 2022 – 2023
-> Web platforms for corporate clients — test automation, then backend feature work and
-> performance tuning.
-
 ## Education
 
 | Institution | Degree | Dates |
 |---|---|---|
 | Central University | Master's, Machine Learning in Computer Science | Sept 2025 – Present |
 | Bauman Moscow State Technical University | Bachelor's, Applied Informatics | Sept 2021 – Aug 2025 |
+
+## Certificates
+
+| Certificate | Issuer | Date | Link |
+|---|---|---|---|
+| | | | |
 
 ---
 
