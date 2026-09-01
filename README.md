@@ -19,8 +19,6 @@ business impact. Currently pursuing a Master's in Machine Learning at Central Un
 
 <img src="assets/banner1.jpg" width="900" alt="Skills — Ivan Safonov's technical skills: Python, backend frameworks, data infrastructure, ML" />
 
-## Skills
-
 **Languages & Frameworks:**
 <div align="center">
 
@@ -82,8 +80,6 @@ business impact. Currently pursuing a Master's in Machine Learning at Central Un
 
 <img src="assets/banner2.jpg" width="900" alt="Projects — personal projects by Ivan Safonov: ML, RAG, embedded systems" />
 
-## Projects
-
 **[rush-hour-flows](https://github.com/i-safonoff/rush-hour-flows)**
 > Predicting peak-hour taxi demand and trip duration between Moscow districts with CatBoost,
 > and quantifying the revenue lost to surge-driven cancellations.
@@ -97,8 +93,6 @@ business impact. Currently pursuing a Master's in Machine Learning at Central Un
 
 <img src="assets/banner3.jpg" width="900" alt="Experience — Ivan Safonov's work experience as a Python backend developer" />
 
-## Experience
-
 **Python Backend Developer** &nbsp;·&nbsp; 2023
 > Analytics infrastructure and event-driven pipelines for high-load media platforms — ClickHouse,
 > Kafka, and AI-assisted content enrichment.
@@ -108,8 +102,6 @@ business impact. Currently pursuing a Master's in Machine Learning at Central Un
 > performance tuning.
 
 <img src="assets/banner4.jpg" width="900" alt="Education — Ivan Safonov's academic background in computer science and machine learning" />
-
-## Education
 
 | Institution | Degree | Dates |
 |---|---|---|
