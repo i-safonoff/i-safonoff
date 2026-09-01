@@ -4,9 +4,9 @@
 
 <br/><br/>
 
-[![Resume PDF](https://img.shields.io/badge/%F0%9F%93%84%20Resume%20%E2%80%94%20Download%20PDF-DC9D34?style=for-the-badge&logoColor=12383E)](https://github.com/i-safonoff/i-safonoff/raw/main/documents/resume.pdf)
-[![Telegram](https://img.shields.io/badge/Telegram%20%E2%80%94%20@antifess-DC9D34?style=for-the-badge&logo=telegram&logoColor=12383E)](https://t.me/antifess)
-[![Email](https://img.shields.io/badge/Email%20%E2%80%94%20i.safonoff.dev%40gmail.com-DC9D34?style=for-the-badge&logo=gmail&logoColor=12383E)](mailto:i.safonoff.dev@gmail.com)
+[![Resume PDF](https://img.shields.io/badge/%F0%9F%93%84%20Resume%20%E2%80%94%20Download%20PDF-1F8A3D?style=for-the-badge&logoColor=FFCC00)](https://github.com/i-safonoff/i-safonoff/raw/main/documents/resume.pdf)
+[![Telegram](https://img.shields.io/badge/Telegram%20%E2%80%94%20@antifess-1F8A3D?style=for-the-badge&logo=telegram&logoColor=FFCC00)](https://t.me/antifess)
+[![Email](https://img.shields.io/badge/Email%20%E2%80%94%20i.safonoff.dev%40gmail.com-1F8A3D?style=for-the-badge&logo=gmail&logoColor=FFCC00)](mailto:i.safonoff.dev@gmail.com)
 
 </div>
 
