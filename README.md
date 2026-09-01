@@ -17,7 +17,7 @@ and analytics infrastructure for high-load media platforms. Comfortable in both 
 event-driven microservice architectures, with a focus on reliability, performance, and measurable
 business impact. Currently pursuing a Master's in Machine Learning at Central University.
 
-<img src="assets/banner1.jpg" width="900" alt="Skills — Ivan Safonov's technical skills: Python, backend frameworks, data infrastructure, ML" />
+## Skills
 
 **Languages & Frameworks:**
 <div align="center">
@@ -78,7 +78,7 @@ business impact. Currently pursuing a Master's in Machine Learning at Central Un
 
 </div>
 
-<img src="assets/banner2.jpg" width="900" alt="Projects — personal projects by Ivan Safonov: ML, RAG, embedded systems" />
+## Projects
 
 **[rush-hour-flows](https://github.com/i-safonoff/rush-hour-flows)**
 > Predicting peak-hour taxi demand and trip duration between Moscow districts with CatBoost,
@@ -91,7 +91,7 @@ business impact. Currently pursuing a Master's in Machine Learning at Central Un
 > Hardware-in-the-loop quadcopter flight-control simulator — Qt/OpenGL ground station paired
 > with STM32F411 firmware.
 
-<img src="assets/banner3.jpg" width="900" alt="Experience — Ivan Safonov's work experience as a Python backend developer" />
+## Experience
 
 **Python Backend Developer** &nbsp;·&nbsp; 2023
 > Analytics infrastructure and event-driven pipelines for high-load media platforms — ClickHouse,
@@ -101,7 +101,7 @@ business impact. Currently pursuing a Master's in Machine Learning at Central Un
 > Web platforms for corporate clients — test automation, then backend feature work and
 > performance tuning.
 
-<img src="assets/banner4.jpg" width="900" alt="Education — Ivan Safonov's academic background in computer science and machine learning" />
+## Education
 
 | Institution | Degree | Dates |
 |---|---|---|
