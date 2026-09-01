@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="900" alt="banner" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=DC9D34&center=true&vCenter=true&width=650&lines=Ivan+Safonov;Python+Backend+Developer+%C2%B7+ML+Engineer" alt="Typing SVG" />
+<img src="assets/banner.svg" width="900" alt="Ivan Safonov — Python Backend Developer · ML Engineer" />
 
 <br/><br/>
 
