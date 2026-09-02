@@ -47,12 +47,13 @@ business impact. Currently pursuing a Master's in Machine Learning at Central Un
 
 ## Projects
 
-**[dothours](https://github.com/i-safonoff/dothours)** &nbsp;·&nbsp; **[frontend](https://github.com/i-safonoff/dothours-frontend)**
-> A time tracker that turns logged hours into a city — every category grows its own building,
-> friends push each other through paired challenges, and companies build a shared city on a
-> world leaderboard. FastAPI + WebSocket + PostgreSQL backend with JWT auth, Alembic migrations,
-> Prometheus metrics and a Grafana dashboard; React + TypeScript frontend with realtime updates
-> via a thin WebSocket layer. Full CI, tests, and API docs.
+**dothours** ([backend](https://github.com/i-safonoff/dothours) + [frontend](https://github.com/i-safonoff/dothours-frontend))
+> A time-management tracker built around gamification: every category you log hours in grows
+> its own building into a personal city, daily goals build streaks, friends push each other
+> through paired challenges, and companies compete on a world leaderboard. FastAPI + WebSocket +
+> PostgreSQL backend with JWT auth, Alembic migrations, Prometheus metrics and a Grafana
+> dashboard; React + TypeScript frontend with realtime updates via a thin WebSocket layer. Full
+> CI, tests, and API docs.
 
 **[rush-hour-flows](https://github.com/i-safonoff/rush-hour-flows)**
 > Predicting peak-hour taxi demand and trip duration between Moscow districts with CatBoost,
