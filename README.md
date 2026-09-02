@@ -5,7 +5,7 @@
 [![Resume PDF](https://img.shields.io/badge/Resume%20%E2%80%94%20Download%20PDF-12383E?style=for-the-badge&logo=googledocs&logoColor=DC9D34)](https://github.com/i-safonoff/i-safonoff/raw/main/documents/SafonovIvan_CV.pdf)
 [![Telegram](https://img.shields.io/badge/Telegram%20%E2%80%94%20@antifess-12383E?style=for-the-badge&logo=telegram&logoColor=DC9D34)](https://t.me/antifess)
 [![Email](https://img.shields.io/badge/Email%20%E2%80%94%20i.safonoff.dev%40gmail.com-12383E?style=for-the-badge&logo=gmail&logoColor=DC9D34)](mailto:i.safonoff.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-12383E?style=for-the-badge&logo=linkedin&logoColor=DC9D34)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-12383E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwNzdCNSI+PHBhdGggZD0iTTE5IDBoLTE0Yy0yLjc2MSAwLTUgMi4yMzktNSA1djE0YzAgMi43NjEgMi4yMzkgNSA1IDVoMTRjMi43NjIgMCA1LTIuMjM5IDUtNXYtMTRjMC0yLjc2MS0yLjIzOC01LTUtNXptLTExIDE5aC0zdi0xMWgzdjExem0tMS41LTEyLjI2OGMtLjk2NiAwLTEuNzUtLjc5LTEuNzUtMS43NjRsLjc4NC0xLjc2NCAxLjc1LTEuNzY0IDEuNzUuNzkgMS43NSAxLjc2NC0uNzgzIDEuNzY0LTEuNzUgMS43NjR6bTEzLjUgMTIuMjY4aC0zdi01LjYwNGMwLTMuMzY4LTQtMy4xMTMtNCAwdjUuNjA0aC0zdi0xMWgzdjEuNzY1YzEuMzk2LTIuNTg2IDctMi43NzcgNyAyLjQ3NnY2Ljc1OXoiLz48L3N2Zz4=&logoColor=DC9D34)](#)
 
 </div>
 
