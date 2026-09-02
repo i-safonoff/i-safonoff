@@ -47,16 +47,22 @@ business impact. Currently pursuing a Master's in Machine Learning at Central Un
 
 ## Projects
 
+**[dothours](https://github.com/i-safonoff/dothours)** &nbsp;·&nbsp; **[frontend](https://github.com/i-safonoff/dothours-frontend)**
+> A time tracker that turns logged hours into a city — every category grows its own building,
+> friends push each other through paired challenges, and companies build a shared city on a
+> world leaderboard. FastAPI + WebSocket + PostgreSQL backend with JWT auth, Alembic migrations,
+> Prometheus metrics and a Grafana dashboard; React + TypeScript frontend with realtime updates
+> via a thin WebSocket layer. Full CI, tests, and API docs.
+
 **[rush-hour-flows](https://github.com/i-safonoff/rush-hour-flows)**
 > Predicting peak-hour taxi demand and trip duration between Moscow districts with CatBoost,
 > and quantifying the revenue lost to surge-driven cancellations.
 
-**[dnd_assistant_rag](https://github.com/i-safonoff/dnd_assistant_rag)**
-> Local RAG assistant for tabletop rulebooks, powered by a self-hosted Qwen model via vLLM.
-
 **[quadcopter-hil-simulator](https://github.com/i-safonoff/quadcopter-hil-simulator)**
-> Hardware-in-the-loop quadcopter flight-control simulator — Qt/OpenGL ground station paired
-> with STM32F411 firmware.
+> Hardware-in-the-loop test bench for quadcopter flight control: a Qt/OpenGL ground station
+> simulates flight dynamics and streams sensor data over USB to a real STM32F411 running the
+> PID control firmware, closing the loop over a shared binary protocol — without ever leaving
+> the ground. Bachelor's thesis project.
 
 [![View All Projects](https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-12383E?style=for-the-badge&logo=github&logoColor=DC9D34)](https://github.com/i-safonoff?tab=repositories)
 
