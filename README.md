@@ -2,8 +2,6 @@
 
 <img src="assets/main-banner.jpg" width="900" alt="Ivan Safonov — Python Developer, Backend &amp; ML" />
 
-<br/><br/>
-
 [![Resume PDF](https://img.shields.io/badge/Resume%20%E2%80%94%20Download%20PDF-12383E?style=for-the-badge&logo=googledocs&logoColor=DC9D34)](https://github.com/i-safonoff/i-safonoff/raw/main/documents/SafonovIvan_CV.pdf)
 [![Telegram](https://img.shields.io/badge/Telegram%20%E2%80%94%20@antifess-12383E?style=for-the-badge&logo=telegram&logoColor=DC9D34)](https://t.me/antifess)
 [![Email](https://img.shields.io/badge/Email%20%E2%80%94%20i.safonoff.dev%40gmail.com-12383E?style=for-the-badge&logo=gmail&logoColor=DC9D34)](mailto:i.safonoff.dev@gmail.com)
@@ -46,7 +44,7 @@ business impact. Currently pursuing a Master's in Machine Learning at Central Un
 > Drove test automation on business-critical flows — up to 74% coverage on unit/integration tests
 > and Selenium-based E2E suites that cut production defects.
 
-## Projects
+## Projects &nbsp; [![View All Projects](https://img.shields.io/badge/%E2%9E%9C%20VIEW%20ALL%20PROJECTS-12383E?style=for-the-badge&logo=github&logoColor=DC9D34)](https://github.com/i-safonoff?tab=repositories)
 
 **[rush-hour-flows](https://github.com/i-safonoff/rush-hour-flows)**
 > Predicting peak-hour taxi demand and trip duration between Moscow districts with CatBoost,
@@ -63,7 +61,8 @@ business impact. Currently pursuing a Master's in Machine Learning at Central Un
 
 | Year | Hackathon | Result | Link |
 |---|---|---|---|
-| | | | |
+| 2026 | E-CUP 2026 (Ozon) — 30-day user GMV forecast · team O3 | 14th of 316 · RMSLE 1.6631 | [repo](https://github.com/i-safonoff/ozon-ecup-2026-user-ltv) |
+| 2026 | DatsSol (DatsTeam) — gamedev hackathon · team Ekvivalentno | 16th of 166 | [repo](https://github.com/i-safonoff/datssol-strategy-bot) |
 
 ## Education
 
@@ -83,5 +82,7 @@ business impact. Currently pursuing a Master's in Machine Learning at Central Un
 <div align="center">
 
 *Open to backend engineering opportunities and interesting collaborations*
+
+![Profile Views](https://komarev.com/ghpvc/?username=i-safonoff&label=PROFILE+VIEWS&color=DC9D34&style=for-the-badge&labelColor=12383E)
 
 </div>
