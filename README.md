@@ -45,6 +45,8 @@ business impact. Currently pursuing a Master's in Machine Learning at Central Un
 > Drove test automation on business-critical flows — up to 74% coverage on unit/integration tests
 > and Selenium-based E2E suites that cut production defects.
 
+[![View Resume](https://img.shields.io/badge/VIEW%20RESUME-12383E?style=for-the-badge&logo=googledocs&logoColor=DC9D34)](https://github.com/i-safonoff/i-safonoff/raw/main/documents/SafonovIvan_CV.pdf)
+
 ## Projects
 
 **dothours** ([backend](https://github.com/i-safonoff/dothours) + [frontend](https://github.com/i-safonoff/dothours-frontend))
@@ -73,6 +75,8 @@ business impact. Currently pursuing a Master's in Machine Learning at Central Un
 |---|---|---|---|
 | 2026 | E-CUP 2026 (Ozon) — 30-day user GMV forecast · team O3 | 14th of 316 · RMSLE 1.6631 | [repo](https://github.com/i-safonoff/ozon-ecup-2026-user-ltv) |
 | 2026 | DatsSol (DatsTeam) — gamedev hackathon · team Ekvivalentno | 16th of 166 | [repo](https://github.com/i-safonoff/datssol-strategy-bot) |
+
+[![View Hackathon Repos](https://img.shields.io/badge/VIEW%20HACKATHON%20REPOS-12383E?style=for-the-badge&logo=github&logoColor=DC9D34)](https://github.com/i-safonoff?tab=repositories&q=hackathon)
 
 ## Education
 
