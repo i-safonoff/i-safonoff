@@ -5,6 +5,7 @@
 [![Resume PDF](https://img.shields.io/badge/Resume%20%E2%80%94%20Download%20PDF-12383E?style=for-the-badge&logo=googledocs&logoColor=DC9D34)](https://github.com/i-safonoff/i-safonoff/raw/main/documents/SafonovIvan_CV.pdf)
 [![Telegram](https://img.shields.io/badge/Telegram%20%E2%80%94%20@antifess-12383E?style=for-the-badge&logo=telegram&logoColor=DC9D34)](https://t.me/antifess)
 [![Email](https://img.shields.io/badge/Email%20%E2%80%94%20i.safonoff.dev%40gmail.com-12383E?style=for-the-badge&logo=gmail&logoColor=DC9D34)](mailto:i.safonoff.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-12383E?style=for-the-badge&logo=linkedin&logoColor=DC9D34)](#)
 
 </div>
 
@@ -44,7 +45,7 @@ business impact. Currently pursuing a Master's in Machine Learning at Central Un
 > Drove test automation on business-critical flows — up to 74% coverage on unit/integration tests
 > and Selenium-based E2E suites that cut production defects.
 
-## Projects &nbsp; [![View All Projects](https://img.shields.io/badge/%E2%9E%9C%20VIEW%20ALL%20PROJECTS-12383E?style=for-the-badge&logo=github&logoColor=DC9D34)](https://github.com/i-safonoff?tab=repositories)
+## Projects
 
 **[rush-hour-flows](https://github.com/i-safonoff/rush-hour-flows)**
 > Predicting peak-hour taxi demand and trip duration between Moscow districts with CatBoost,
@@ -56,6 +57,8 @@ business impact. Currently pursuing a Master's in Machine Learning at Central Un
 **[quadcopter-hil-simulator](https://github.com/i-safonoff/quadcopter-hil-simulator)**
 > Hardware-in-the-loop quadcopter flight-control simulator — Qt/OpenGL ground station paired
 > with STM32F411 firmware.
+
+[![View All Projects](https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-12383E?style=for-the-badge&logo=github&logoColor=DC9D34)](https://github.com/i-safonoff?tab=repositories)
 
 ## Hackathons
 
