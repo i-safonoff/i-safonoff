@@ -33,13 +33,18 @@ business impact. Currently pursuing a Master's in Machine Learning at Central Un
 
 ## Experience
 
-**Nalitek** &nbsp;·&nbsp; Python Backend Developer &nbsp;·&nbsp; 2023 – 2026
-> Analytics infrastructure and event-driven pipelines for high-load media platforms — ClickHouse,
-> Kafka, and AI-assisted content enrichment.
+**Nalitek** &nbsp;·&nbsp; Python Backend Developer &nbsp;·&nbsp; Dec 2023 – Present
+> Built the analytics backbone for high-load media platforms — a Kafka-driven dual-write pipeline
+> (PostgreSQL + ClickHouse) that cut event reaction time from 2 min to 0.2 sec, plus an AI enrichment
+> module auto-tagging 30,000+ media assets.
 
-**Contentline** &nbsp;·&nbsp; QA Engineer → Python Backend Developer &nbsp;·&nbsp; 2022 – 2023
-> Web platforms for corporate clients — test automation, then backend feature work and
-> performance tuning.
+**Contentline** &nbsp;·&nbsp; Python Backend Developer &nbsp;·&nbsp; Mar 2023 – Dec 2023
+> Backend feature work on corporate web platforms — resolved N+1 performance issues across API
+> endpoints and shipped an automated tag-recommendation engine for editorial content.
+
+**Contentline** &nbsp;·&nbsp; QA Engineer &nbsp;·&nbsp; Aug 2022 – Mar 2023
+> Drove test automation on business-critical flows — up to 74% coverage on unit/integration tests
+> and Selenium-based E2E suites that cut production defects.
 
 ## Projects
 
