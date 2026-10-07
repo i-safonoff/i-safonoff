@@ -13,7 +13,7 @@
 
 ## About
 
-**Python Backend Developer**, 3+ years building scalable backend systems, asynchronous data pipelines,
+**Python Backend Developer**, 4+ years building scalable backend systems, asynchronous data pipelines,
 and analytics infrastructure for high-load media platforms. Comfortable in both monolithic and
 event-driven microservice architectures, with a focus on reliability, performance, and measurable
 business impact. Currently pursuing a Master's in Machine Learning at Central University.
@@ -38,13 +38,10 @@ business impact. Currently pursuing a Master's in Machine Learning at Central Un
 > LLM-based content enrichment module that lifted average view count by 54.2%, and a KNN
 > face-recognition pipeline across 600,000+ media files that cut manual tagging by 70%.
 
-**Contentline** &nbsp;·&nbsp; Python Backend Developer &nbsp;·&nbsp; Mar 2023 – Dec 2023
+**Contentline** &nbsp;·&nbsp; Python Backend Developer &nbsp;·&nbsp; Aug 2022 – Dec 2023
 > Backend feature work on corporate web platforms — resolved N+1 performance issues across API
 > endpoints (422 → 234 ms) and shipped an automated tag-recommendation engine for editorial content.
-
-**Contentline** &nbsp;·&nbsp; QA Engineer &nbsp;·&nbsp; Aug 2022 – Mar 2023
 > Drove test automation on business-critical flows — up to 86% coverage on unit/integration tests
-> and Selenium-based E2E suites that cut production defects.
 
 [![View Resume](https://img.shields.io/badge/VIEW%20RESUME-12383E?style=for-the-badge&logo=googledocs&logoColor=DC9D34)](https://github.com/i-safonoff/i-safonoff/blob/main/documents/Ivan_Safonov_CV.pdf)
 
