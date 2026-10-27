@@ -71,6 +71,7 @@ business impact. Currently pursuing a Master's in Machine Learning at Central Un
 
 | Year | Hackathon | Result | Link |
 |---|---|---|---|
+| 2026 | RSNA Knee Abnormality Detection (Kaggle) — knee MRI, 12 findings | 212th of 6,425 · silver medal · private AUC 0.944 | [repo](https://github.com/SeMe4K-0/rsna-knee-abnormality-detection) |
 | 2026 | E-CUP 2026 (Ozon) — 30-day user GMV forecast · team O3 | 14th of 316 · RMSLE 1.6631 | [repo](https://github.com/i-safonoff/ozon-ecup-2026-user-ltv) |
 | 2026 | DatsSol (DatsTeam) — gamedev hackathon · team Ekvivalentno | 16th of 166 | [repo](https://github.com/i-safonoff/datssol-strategy-bot) |
 
